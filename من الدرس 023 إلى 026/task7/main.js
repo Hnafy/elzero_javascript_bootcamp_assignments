@@ -1,0 +1,1 @@
+console.log(Math.round(Math.random() * 11)); // 0 || 1 || 2 || 3 || 4
